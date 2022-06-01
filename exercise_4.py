@@ -51,3 +51,6 @@ elif year % 400 == 0:
     print('The year is leap')
 else:
     print('The year is not leap')
+    
+#ex 5 
+print('Hello world')
