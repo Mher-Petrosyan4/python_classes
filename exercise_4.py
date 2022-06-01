@@ -17,7 +17,8 @@ elif number_of_day == 6:
 else:
     print("Out of week days range.")
 
-#ex 1.2
+#ex 1.2 
+######
 days_of_week = {0:'Sunday', 1:'Monday', 2:'Tuesday', 3:'Wednesdya', 4:'Thursday', 5:'Friday', 6:'Saturday'}
 num = int(input('Enter some number: '))
 print(days_of_week[num])
