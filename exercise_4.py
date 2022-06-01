@@ -54,3 +54,7 @@ else:
 
 #ex 5
 print('Hello python')
+
+#ex 5 
+print('Hello world')
+
