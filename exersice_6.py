@@ -1,4 +1,4 @@
-v = 'Python'
+v = 'Pytho'
 # #ex 1
 # for i in range(10):
 #     print('*' * i)
